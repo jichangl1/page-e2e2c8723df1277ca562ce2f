@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "5a949d88954dd50d969fdbb1",
+  "owner": "jichangl1",
+  "repo": "page-e2e2c8723df1277ca562ce2f",
+  "title": "新蜂",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e2e2c8723df1277ca562ce2f",
+      "a": "新蜂",
+      "b": "2027最新官网",
+      "entity": "新蜂",
+      "brand": "新蜂",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "8bcc48e8f089878b9e025cbf3dee6f82b474ec0e878d52ea56f71e5c2e280e1a",
+      "content": {
+        "primary_entity": "新蜂",
+        "keyword1": "新蜂",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_CLIENTS_INTRO": "按设备选择客户端，订阅配置流程随平台版本略有不同。",
+          "AI_CLIENTS_TITLE": "设备与客户端选择",
+          "AI_CLOSING_TEXT": "选好套餐，跟着客户端文档导入订阅即可开始使用。",
+          "AI_CLOSING_TITLE": "开始使用新蜂",
+          "AI_DESCRIPTION": "，新蜂提供基础版、旗舰版与团队版三档订阅，覆盖每月 100GB 到 1000GB 流量与 3 至 20 台设备需求。旗舰版含 IPLC 专线节点，适合游戏加速与流媒体使用；团队版支持企业定制路由与专属客户经理。订阅按自然月或按年计费，客户端订阅导入后即可在对应设备上启用。",
+          "AI_FEATURES_INTRO": "从设备数量、流量需求与计费周期三个角度挑选版本。",
+          "AI_FEATURES_TITLE": "订阅选择要点",
+          "AI_FEATURE_TEXT_1": "基础版支持 3 台设备与每月 100GB，适合手机与电脑少量使用。",
+          "AI_FEATURE_TEXT_2": "旗舰版支持 5 台设备与每月 300GB，含 IPLC 专线与流媒体解锁。",
+          "AI_FEATURE_TEXT_3": "团队版支持 20 台设备与每月 1000GB，可定制路由与专属服务。",
+          "AI_FEATURE_TITLE_1": "看设备数量",
+          "AI_FEATURE_TITLE_2": "看流量与节点",
+          "AI_FEATURE_TITLE_3": "看团队规模",
+          "AI_GUIDE_INTRO": "按需选择版本，确认设备适配后导入订阅。",
+          "AI_GUIDE_TITLE": "使用步骤",
+          "AI_HERO_INTRO": "新蜂提供基础版、旗舰版与团队版订阅，流量从每月 100GB 到 1000GB，设备数覆盖 3 至 20 台。选择合适版本后，根据客户端文档配置订阅，即可在对应设备上使用加速线路。",
+          "AI_HERO_SUBTITLE": "多版本订阅，按设备灵活选择",
+          "AI_HIGHLIGHT_1": "每月 100GB 起，最多 1000GB",
+          "AI_HIGHLIGHT_2": "支持 3 至 20 台设备在线",
+          "AI_HIGHLIGHT_3": "月付或年付，年付更省",
+          "AI_PLANS_INTRO": "基础版每月 ¥15，旗舰版每月 ¥35，团队版每月 ¥85；按年付分别为 ¥150、¥350、¥850。旗舰版含 IPLC 专线游戏加速，团队版含 VIP 专属高带宽节点。",
+          "AI_PLANS_TITLE": "套餐对比",
+          "AI_STEP_TEXT_1": "根据设备数量、月流量与所需节点类型，从三档版本中选择合适的一档。",
+          "AI_STEP_TEXT_2": "确认所用设备系统的适配要求，并检查套餐支持的在线设备数量是否满足。",
+          "AI_STEP_TEXT_3": "依照对应客户端文档导入订阅配置，连接后即可使用加速线路。",
+          "AI_STEP_TITLE_1": "选择版本",
+          "AI_STEP_TITLE_2": "确认适配",
+          "AI_STEP_TITLE_3": "配置订阅",
+          "AI_VISUAL_TITLE": "新蜂订阅，按设备选择",
+          "AI_FAQ_TITLE": "新蜂常见问题",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_FAQ_QUESTION_1": "新蜂基础版和旗舰版主要差在哪？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB、支持 3 台设备，节点池为普通线路。旗舰版每月 300GB、支持 5 台设备，并提供 IPLC 专线与全节点原生流媒体解锁，适合游戏和流媒体用户。",
+          "AI_FAQ_QUESTION_2": "团队版最突出的权益是什么？",
+          "AI_FAQ_ANSWER_2": "团队版每月 1000GB，支持 20 台设备同时在线，提供 VIP 高带宽节点与企业定制路由，并配备专属客户经理服务，适合多人协同场景。",
+          "AI_FAQ_QUESTION_3": "新蜂年付是否比月付划算？",
+          "AI_FAQ_ANSWER_3": "基础版年付 ¥150、旗舰版年付 ¥350、团队版年付 ¥850，相比各自月付总额更低，长期使用选择年付可减少支出。",
+          "AI_FAQ_QUESTION_4": "新蜂支持哪些设备类别的客户端？",
+          "AI_FAQ_ANSWER_4": "可按手机、电脑和路由器等设备类别选择对应客户端，建议参考该客户端的配置文档导入订阅。不同系统版本适配情况可能不同，以客户端文档为准。",
+          "AI_FAQ_QUESTION_5": "新蜂套餐可以中途升级吗？",
+          "AI_FAQ_ANSWER_5": "套餐变更通常与剩余周期和流量有关，升级到更高档位可先了解当前套餐的计费周期，再结合设备数与月流量需求选择。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "xn--9kqy4s49jj7dm13c.com",
+    "host": "xn--9kqy4s49jj7dm13c.com"
+  },
+  "file_hashes": {
+    "index.html": "c75f983669f65000076dd7a6fe4005f17baf4f1dac7719c97ef054f363776f0a",
+    "sitemap.xml": "44d6d7f8cce44e94a8bf292cbb614e028f8f999ebd7a7554e0c1935d00b9a609",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "24886d11da5c3ff4c49b14351fa90c6ea2ff1654c6e62289f54397c62f689e9c",
+    "robots.txt": "a6ebe37a87c8ced56fdb41c08ebd19ef4ec83e84f9d55a6b09eeff63821f85aa",
+    "3a022f143c909eafef4598ecc30d85fa.txt": "7a19daaf91edaa53f66026ab3a3d8b7875bd2b7ce5273d1291ff565cdf8f81c9"
+  },
+  "revision": "7e52462c80fa87a3bee1d1f3e2812a771e7471432abedc6e787d8bf098fa449b"
+}
